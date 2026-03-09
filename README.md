@@ -1,70 +1,63 @@
-<h1 align="center">Hi 👋 I'm Lalit Singh</h1>
+<h1 align="center">Welcome to My GitHub 👋</h1>
+
+<h2 align="center">Hi, I'm Lalit Singh</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Designer;Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Creative+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Learner;Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Creative+Projects;Thanks+for+Visiting+My+GitHub" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 💻 Passionate Developer  
 🎓 Computer Science Student  
-🌐 Love building Web & Software Projects  
+🌐 Interested in Web Development & Software Projects  
 ⚡ Always learning new technologies  
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,cpp,java,mysql,github,vscode" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lalit-73-02&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lalit-73-02&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lalit-73-02&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Lalit-73-02&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 📈 Top Languages
+## 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-73-02&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-73-02&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 🧑‍💻 My Major Projects
+## 🧑‍💻 Projects
 
 🚀 SQL Learning Project  
 🚀 Python Project  
@@ -78,7 +71,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -90,4 +83,8 @@
 
 ---
 
-⭐ From Lalit Singh
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
