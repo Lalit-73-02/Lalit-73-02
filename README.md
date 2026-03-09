@@ -1,45 +1,55 @@
-<h1 align="center">Hi 👋, I'm Lalit</h1>
-<h3 align="center">Frontend Developer | Learning SQL & JavaScript</h3>
+<h1 align="center">Hi 👋 I'm Lalit</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Learning+JavaScript;Learning+MySQL;Building+Cool+Projects" />
+</p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **JavaScript & MySQL**
-- 💻 Interested in **Web Development**
-- 📚 Student of Computer Science
-- ⚡ Love creating websites and projects
+## 🚀 About Me
+
+- 🎓 Computer Science Student  
+- 💻 Learning **JavaScript & MySQL**  
+- 🌐 Interested in **Web Development**  
+- ⚡ Love creating websites & UI designs  
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lalit-73-02&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Lalit-73-02&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lalit-73-02&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-### 📈 Most Used Languages
+## 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-73-02&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Lalit-73-02&theme=radical" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Most Used Languages
 
-<p align="left">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit-73-02&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 <a href="https://github.com/Lalit-73-02">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
@@ -47,4 +57,4 @@
 
 ---
 
-⭐ From [Lalit](https://github.com/Lalit-73-02)
+⭐ From Lalit
