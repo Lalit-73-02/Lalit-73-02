@@ -19,7 +19,7 @@ I am a passionate **Computer Science Student** and an aspiring developer. I enjo
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,react,nodejs,mysql,python,java,c,cpp,github,vscode,perline=7" />
