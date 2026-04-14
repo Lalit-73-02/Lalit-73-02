@@ -57,7 +57,7 @@ I am a **Computer Science Student** who is deeply in love with the world of prog
 
 ---
 
-### 📂 Projects I'm Proud Of
+### 📂   Projects I'm Proud Of
 
 <p align="center">
   <a href="https://github.com/Lalit-73-02/ATTENDO">
@@ -91,7 +91,7 @@ I am a **Computer Science Student** who is deeply in love with the world of prog
 
 ---
 
-### 📞 Let's Grow Together!
+### 📞   Let's Grow Together!
 
 <p align="center">
   <a href="https://github.com/Lalit-73-02" target="blank">
