@@ -51,7 +51,7 @@ I am a **Computer Science Student** who is deeply in love with the world of prog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,figma,postman,powershell,npm,windows&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,c++,git,github,vscode,figma,antigravity,claude,windows&perline=11" />
   </a>
 </p>
 
